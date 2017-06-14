@@ -104,7 +104,7 @@ header .tel a .header_icon_phone{
 }
 
 
-/*µ×²¿À¸ */
+/*ÂµÃ—Â²Â¿Ã€Â¸ */
 .footer{
     background-color: #23315E;
     position: relative;
@@ -178,7 +178,7 @@ header .tel a .header_icon_phone{
     text-align: center;
     color: #fff;
 }
-/*Ãæ°üĞ¼ */
+/*ÃƒÃ¦Â°Ã¼ÃÂ¼ */
 .mbx{
     padding: .4rem  .3rem;
     color: #37456C;
@@ -199,7 +199,7 @@ header .tel a .header_icon_phone{
     width: .2rem;
     height: .2rem;
     position: absolute;
-    top:.08rem;
+    top:.09rem;
     right:-.3rem;
     background: url("../images/m_right_arrow.jpg") no-repeat;
     background-size: contain;
@@ -214,7 +214,7 @@ header .tel a .header_icon_phone{
     color: #37456C;
 }
 
-/*²à±ßÀ¸ */
+/*Â²Ã Â±ÃŸÃ€Â¸ */
 
 .side-bar a,.chat-tips i {
     background: url(../images/aside.png) no-repeat;
