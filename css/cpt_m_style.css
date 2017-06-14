@@ -205,7 +205,7 @@
 .serve li{
     width: 3rem;
     /*height: 6.9rem;*/
-    padding: 0 .2rem .5rem .2rem;
+    padding: 0 .2rem .6rem .2rem;
 }
 .serve li h3{
     height: .9rem;
@@ -793,7 +793,6 @@
 .news_article_list_item .news_article_banquan dl dd{
     margin-left: 1.5rem;
     width: 4.8rem;
-
 }
 .news_article_list_item .news_article_banquan dl .huanhang{
     word-wrap:break-word

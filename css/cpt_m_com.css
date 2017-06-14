@@ -199,7 +199,7 @@ header .tel a .header_icon_phone{
     width: .2rem;
     height: .2rem;
     position: absolute;
-    top:.08rem;
+    top:.09rem;
     right:-.3rem;
     background: url("../images/m_right_arrow.jpg") no-repeat;
     background-size: contain;
