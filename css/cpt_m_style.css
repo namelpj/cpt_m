@@ -1,6 +1,4 @@
-*{
-   box-sizing: border-box;
-}
+
 .menu_list{
     width: 42%;
     height: auto;
@@ -790,8 +788,7 @@
     font: normal .30rem/.5rem "Microsoft Yahei";
 }
 .news_article_list_item .news_article_banquan dl dt{
-    float: left;
-    display:inline-block;
+   float:left;
      width:1.7rem;
 }
 .news_article_list_item .news_article_banquan dl dd{
