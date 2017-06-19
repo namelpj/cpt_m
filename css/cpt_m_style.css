@@ -1,4 +1,6 @@
-
+*{
+   box-sizing: border-box;
+}
 .menu_list{
     width: 42%;
     height: auto;
